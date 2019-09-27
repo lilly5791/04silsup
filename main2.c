@@ -13,9 +13,6 @@ int main(int argc, char *argv[]) {
 	
 	printf("cond1 = %d , cond2 = %d\n", cond1, cond2);
 	
-	printf("-1L < 1U : %d\n", -1L < 1U );
-	printf("-1L > 1UL : %d\n", -1L > 1U );
-	
 	
 	
 	return 0;
